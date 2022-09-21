@@ -3,15 +3,15 @@ The purpose of the project was to analyze data for a ridesharing company called 
 
 ## Results
 The following key metrics were calculated and a dataframe was created to observe and analyze some disparities in city types.
-![ss](https://user-images.githubusercontent.com/111541268/191599743-c2f6990e-842e-4b67-992d-5c4a11a0138b.png)
 
+![total ride_ss](https://user-images.githubusercontent.com/111541268/191604331-259e37a2-8e44-4ea2-b3f8-22b2ce344d62.png)
 
 
 From this dataframe we can see that Urban cities have the most amount of rides and drivers and rural cities have the least. As a result the city type Urban brings the most revenue as we can see in the Total Fares column and rural cities bring the least amount of revenue. However, as we analyze the Average Fare per Ride column of this dataframe we can see that Rural city types have the highest average fare per ride, meaning that there is a chance of more revenue in this city type for every ride increase compared to Urban city types wich has the lowest average fare per ride. Other metric that we can see in this dataframe is the average fare per driver, from this data it can be seen that drivers in the rural city type make $55.49 per ride, whereas the drivers in urban areas make almost 3 times less per ride which is $16.57.
 
 A multiple line chart was also created as follows as part of the analysis to help us visualize and perform analysis of the Total Fares for each of the city types.
 
-![ss2](https://user-images.githubusercontent.com/111541268/191599791-5b05ef60-0c5d-4f73-9fee-b3d96ad95078.png)
+![line_chart_ss](https://user-images.githubusercontent.com/111541268/191604402-1361c07b-3452-4ec1-a8c4-48af531fc710.png)
 
 
 In this time period analyzed for the total fare for each of the ciy types we can quickly oberve that Urban city types had the highest total fares for all the weeks and rural areas had the least. We can also observe that the 3rd week of February has the highest total fares for each of the city type showing increased demand at that time. Urban cities aslo seem to bring a lot of revenue in the first and third week of March. Towards the start of January 2019 and towards the end of April all Fares for each city type are showling decline.
